@@ -52,9 +52,9 @@ A real-time video conferencing app using **WebRTC** and **Socket.io**, enabling:
 
 ## 📫 Connect with Me
 
-- 💼 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💬 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 📧 Email: your.email@example.com
+
+- 💬 LinkedIn:www.linkedin.com/in/iankitroy
+- 📧 Email: ankit1811roy@gmail.com
 
 ---
 
